@@ -4,7 +4,7 @@ A lightweight and easy to use vanilla javascript game library for making front e
 # Basic Usage
 
 ## Hello World
-
+<br></br>
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -29,3 +29,7 @@ A lightweight and easy to use vanilla javascript game library for making front e
     </script>
   </body>
 </html>
+```
+### Result:
+<br></br>
+<center><img src="resources/assets/images/helloWorld.png" alt="frog" width="600" height="400"/>  
