@@ -1,6 +1,7 @@
-# VJSGL
+# LWWGL
 <br></br>
-A lightweight and easy to use javascript game library for making 2D front end browser games
+## About
+Lightweight web game library is a powerful and easy to use javascript game library for making 2D browser games
 
 ## Basic Usage
 
