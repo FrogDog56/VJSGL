@@ -1,5 +1,4 @@
 # LWWGL
-<br></br>
 ## About
 Lightweight web game library is a powerful and easy to use javascript game library for making 2D browser games
 
