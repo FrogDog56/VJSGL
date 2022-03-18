@@ -25,7 +25,7 @@ A lightweight and easy to use vanilla javascript game library for making front e
       Your browser does not support the HTML canvas tag.</canvas
     >
     <script>
-        let helloWorld = new FillText(100, 100, "Hello World", "Arial", 30, black);
+        let helloWorld = new FillText(75, 100, "Hello World", "Arial", 30, black);
         helloWorld.draw();
     </script>
   </body>
