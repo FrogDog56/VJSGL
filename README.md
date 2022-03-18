@@ -1,9 +1,10 @@
 # VJSGL
-A lightweight and easy to use vanilla javascript game library for making front end browser games
+<br></br>
+A lightweight and easy to use javascript game library for making 2D front end browser games
 
-# Basic Usage
+## Basic Usage
 
-## Hello World
+### Hello World
 <br></br>
 ```
 <!DOCTYPE html>
@@ -31,6 +32,6 @@ A lightweight and easy to use vanilla javascript game library for making front e
   </body>
 </html>
 ```
-### Result:
+#### Result:
 <br></br>
 <center><img src="resources/assets/images/helloWorld.png" alt="frog" width="600" height="400"/>  
