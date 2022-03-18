@@ -19,7 +19,8 @@ A lightweight and easy to use vanilla javascript game library for making front e
   <body>
     <canvas
       id="myCanvas"
-      class="canvas-l canvas-center"        style="border: 1px solid #d3d3d3"
+      class="canvas-l canvas-center"        
+      style="border: 1px solid #d3d3d3"
     >
       Your browser does not support the HTML canvas tag.</canvas
     >
