@@ -2,6 +2,20 @@
 ## About
 Lightweight web game library is a powerful and easy to use javascript game library for making 2D browser games
 
+## Features
+### Current
+- Sprites
+- Key input
+- Bounding box collisions
+- Object registry
+- Scrolling backgrounds (beta)
+
+### Coming soon
+- Sprite sheet support
+- Background layers registry
+- Animations
+- More useful functions
+
 ## Basic Usage
 
 ### Hello World
