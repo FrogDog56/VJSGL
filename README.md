@@ -6,6 +6,7 @@ Lightweight web game library is a powerful and easy to use javascript game libra
 ### Current
 - Sprites
 - Key input
+- Mouse input
 - AABB collisions
 - Object registry
 - Scrolling backgrounds (beta)
@@ -14,6 +15,7 @@ Lightweight web game library is a powerful and easy to use javascript game libra
 - Sprite sheet support
 - Background layers registry
 - Animations
+- Sound
 - More useful functions
 
 ## Basic Usage
@@ -27,15 +29,15 @@ Lightweight web game library is a powerful and easy to use javascript game libra
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="lib/VJSGL.css" />
-    <script type="text/javascript" src="lib/VJSGL.js"></script>
+    <link rel="stylesheet" href="lib/LWWGL.css" />
+    <script type="text/javascript" src="lib/LWWGL.js"></script>
     <title>Document</title>
   </head>
   <body>
     <canvas
       id="myCanvas"
-      class="canvas-l canvas-center"        
-      style="border: 1px solid #d3d3d3"
+      class="canvas-center"        
+      style="border: 1px solid #d3d3d3; width: 900px; height: 500px;"
     >
       Your browser does not support the HTML canvas tag.</canvas
     >
