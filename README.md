@@ -9,7 +9,6 @@ Lightweight web game library is a powerful and easy to use javascript game libra
 - Mouse input
 - AABB collisions
 - Object registry
-- Scrolling backgrounds (beta)
 
 ### Coming soon
 - Sprite sheet support
@@ -17,6 +16,7 @@ Lightweight web game library is a powerful and easy to use javascript game libra
 - Animations
 - Sound
 - More useful functions
+- Scrolling backgrounds (maybe)
 
 ## Basic Usage
 
