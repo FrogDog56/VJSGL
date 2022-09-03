@@ -12,11 +12,9 @@ Lightweight web game library is a powerful and easy to use javascript game libra
 
 ### Coming soon
 - Sprite sheet support
-- Background layers registry
-- Animations
 - Sound
 - More useful functions
-- Scrolling backgrounds (maybe)
+- Circle collisions
 
 ## Basic Usage
 
